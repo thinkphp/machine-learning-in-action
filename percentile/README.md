@@ -4,6 +4,8 @@ Percentiles are used in statistics to give you a number that describes the value
 
 Example: Let's say we have an array of the ages of all the people that live in a street.
 
+https://ideone.com/b2OCaN
+
 ### numpy
 
 ```
@@ -16,6 +18,7 @@ x = numpy.percentile(ages, 75)
 
 print(x)
 ```
+
 
 ### Custom percentiles implementation
 
