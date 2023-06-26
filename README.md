@@ -11,3 +11,5 @@ In the mind of the computer, a data set is any collection of data. It can be any
 https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide
 
 https://www.kaggle.com/learn/intermediate-machine-learning
+
+https://www.w3schools.com/python/python_ml_getting_started.asp
