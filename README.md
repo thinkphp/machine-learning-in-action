@@ -5,3 +5,7 @@
 * Machine Learning is a program that analyses data and learns to predict the outcome.
 
 In the mind of the computer, a data set is any collection of data. It can be anything from an array to a complete database.
+
+### References
+
+https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide
