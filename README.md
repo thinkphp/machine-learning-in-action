@@ -8,6 +8,8 @@ In the mind of the computer, a data set is any collection of data. It can be any
 
 ### References
 
+https://www.ibm.com/topics/machine-learning
+
 https://www.coursera.org/articles/is-machine-learning-hard
 
 https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide
