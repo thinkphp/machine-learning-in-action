@@ -1,4 +1,6 @@
-# machine-learning-in-action
+# Machine Learning
+
+Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
 * Machine Learning is making the computer learn from studying data and statistics.
 * Machine Learning is a step into the direction of Artificial Intelligence (AI)
