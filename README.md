@@ -14,6 +14,8 @@ https://colab.research.google.com/drive/1OUqtL2npVqvV6dVovXLNobUGVKAMwbw7
 
 ### References
 
+https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide
+
 https://www.ibm.com/topics/machine-learning
 
 https://pianalytix.com/data-types-in-machine-learning/
