@@ -34,4 +34,6 @@ https://www.w3schools.com/python/python_ml_getting_started.asp
 
 https://www.w3schools.com/ai/ai_neural_networks.asp
 
+https://www.javatpoint.com/regression-analysis-in-machine-learning
+
 https://papers.cnl.salk.edu/PDFs/Understanding%20the%20Human%20Brain%202011-4261.pdf
