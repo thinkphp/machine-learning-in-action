@@ -8,6 +8,10 @@ Machine learning is a branch of artificial intelligence (AI) and computer scienc
 
 In the mind of the computer, a data set is any collection of data. It can be anything from an array to a complete database.
 
+### Colab Google Research
+
+https://colab.research.google.com/drive/1OUqtL2npVqvV6dVovXLNobUGVKAMwbw7
+
 ### References
 
 https://www.ibm.com/topics/machine-learning
