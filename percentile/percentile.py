@@ -3,7 +3,7 @@ import math
 
 def main():
 	
-	  #Percentiles are used in statistics to give you a number that describes the value that a given percent of the values are lower than.
+    #Percentiles are used in statistics to give you a number that describes the value that a given percent of the values are lower than.
     #Example: Let's say we have an array of the ages of all the people that live in a street.
     #What is the 75. percentile? The answer is 43, meaning that 75% of the people are 43 or younger.
     #The NumPy module has a method for finding the specified percentile:
