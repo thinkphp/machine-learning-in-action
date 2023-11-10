@@ -6,6 +6,8 @@ Example: Let's say we have an array of the ages of all the people that live in a
 
 https://ideone.com/b2OCaN
 
+https://ideone.com/4BWOuQ
+
 ### numpy
 
 ```
