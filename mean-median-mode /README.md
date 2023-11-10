@@ -10,3 +10,7 @@ Mode - The most common value
 
 ## Examples
 https://ideone.com/0j7xzI
+
+## References:
+
+https://www.w3schools.com/python/python_ml_mean_median_mode.asp
