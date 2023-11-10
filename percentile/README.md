@@ -2,7 +2,9 @@
 
 Percentiles are used in statistics to give you a number that describes the value that a given percent of the values are lower than
 
-Example: Let's say we have an array of the ages of all the people that live in a street.
+## Examples
+
+Let's say we have an array of the ages of all the people that live in a street.
 
 https://ideone.com/b2OCaN
 
