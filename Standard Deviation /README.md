@@ -14,7 +14,9 @@ speed = [86,87,88,86,87,85,86]
 
 The standard deviation is: 0.9
 
+## Example
 
+https://ideone.com/Plz8pi
 
 ## References
 
