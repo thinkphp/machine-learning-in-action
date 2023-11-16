@@ -18,6 +18,10 @@ The standard deviation is: 0.9
 
 https://ideone.com/Plz8pi
 
+## Practice
+
+https://www.hackerrank.com/challenges/s10-standard-deviation/problem
+
 ## References
 
 https://www.w3schools.com/python/python_ml_standard_deviation.asp
