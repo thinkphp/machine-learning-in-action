@@ -11,6 +11,9 @@ In Machine Learning (and in mathematics) there are often three values that inter
 ## Examples
 https://ideone.com/0j7xzI
 
+## Practice
+https://www.hackerrank.com/challenges/s10-basic-statistics/problem
+
 ## References:
 
 https://www.w3schools.com/python/python_ml_mean_median_mode.asp
